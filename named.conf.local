@@ -1,0 +1,4 @@
+zone "domain.com" {
+        type master;
+        file "/etc/bind/domain.com.zone";
+};

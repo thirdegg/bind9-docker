@@ -1,0 +1,11 @@
+$TTL 3H
+@ IN SOA ns1.domain.com. admin.domain.com. (
+1
+3H
+1H
+1W
+1H )
+@ IN NS ns1.domain.com.
+@ IN NS ns2.domain.com.
+@ IN A 8.8.8.8
+* IN A 8.8.8.8
